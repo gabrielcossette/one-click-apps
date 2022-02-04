@@ -94,5 +94,5 @@ caproverOneClickApp:
           SuccessExample
     displayName: Authentik (Gabriel)
     isOfficial: true
-    description: authentik is an open-source Identity Provider focused on flexibility and versatility. You can use authentik in an existing environment to add support for new protocols. authentik is also a great solution for implementing signup/recovery/etc in your application, so you don't have to deal with it.
+    description: authentik is an open-source Identity Provider focused on flexibility and versatility.
     documentation: https://goauthentik.io
